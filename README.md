@@ -1,2 +1,3 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modulo2 del PreCourse
+#Ayrton Horacio Torres
+
+Prueba de como crear un repo y clonarlo desde github a mi computadora
